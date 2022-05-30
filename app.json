@@ -1,6 +1,6 @@
 {
-  "name": "Xray快速部署",
-  "description": "Deploy Xray Vless to Heroku.",
+  "name": "X快速部署",
+  "description": "Deploy Xray2Vless",
   "keywords": ["V2ray", "Xray"],
   "env": {
     "ProxySite": {
@@ -9,8 +9,8 @@
     },
 
     "Vless_UUID": {
-      "description": "Vless uuid（http://www.uuid.online/在线生成）",
-      "value": "5c301bb8-6c77-41a0-a606-4ba11bbab084"
+      "description": "Vless uuid（在线生成）",
+      "value": "4993286c-36c0-4c60-b274-6e6cf2d76640"
     },
 
     "Vless_Path": {
@@ -18,8 +18,8 @@
       "value": "/s233"
     },
     "Vmess_UUID": {
-      "description": "Vmess uuid（http://www.uuid.online/在线生成）",
-      "value": "5c301bb8-6c77-41a0-a606-4ba11bbab084"
+      "description": "Vmess uuid（在线生成）",
+      "value": "4993286c-36c0-4c60-b274-6e6cf2d76640"
     },
 
     "Vmess_Path": {
